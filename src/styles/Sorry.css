@@ -1,0 +1,11 @@
+#sorry {
+	grid-row: 3 / 4;
+	grid-column: 1 / -1;
+	background-color: #495e57;
+}
+
+#sorry h1 {
+	text-align: center;
+	color: #edefee;
+	font-weight: 400;
+}

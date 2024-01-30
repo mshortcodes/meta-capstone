@@ -1,0 +1,89 @@
+.main {
+	grid-row: 3 / 4;
+	grid-column: 5 / 9;
+	text-align: center;
+	background-color: #edefee;
+	border-radius: 1rem;
+	margin: 1rem 0;
+}
+
+.main h1 {
+	margin: 0;
+	padding: 1rem;
+	padding-bottom: 0.5rem;
+}
+
+.form {
+	width: 75%;
+	margin: auto;
+}
+
+.date,
+.time,
+.party,
+.seating,
+.occasion,
+.name,
+.email,
+.comments {
+	padding: 0.5rem;
+}
+
+sup {
+	color: red;
+	position: relative;
+	top: 0.1rem;
+}
+
+.form .error-message {
+	color: red;
+	font-family: 'Karla', sans-serif;
+}
+
+.seating input {
+	width: auto;
+}
+
+#comments {
+	text-align: start;
+	padding: 0.5rem;
+	max-width: 90%;
+}
+
+.reserve-table {
+	padding: 0.5rem;
+	padding-bottom: 1rem;
+}
+
+.button {
+	background-color: #f4ce14;
+	color: #333333;
+	border-radius: 1rem;
+	border: none;
+	width: 100%;
+	font-size: 1rem;
+	font-weight: 800;
+	cursor: pointer;
+}
+
+.button:disabled {
+	cursor: not-allowed;
+}
+
+.reserve-table:hover {
+	opacity: 0.8;
+}
+
+@media (max-width: 1536px) {
+	.main {
+		grid-row: 4 / 5;
+	}
+}
+
+@media (max-width: 1024px) {
+	.main {
+		grid-row: 4 / 5;
+		grid-column: 1 / 2;
+		justify-self: auto;
+	}
+}

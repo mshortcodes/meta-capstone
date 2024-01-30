@@ -1,0 +1,19 @@
+.confirm {
+	grid-row: 4 / 5;
+	grid-column: 4 / 10;
+	background-color: #edefee;
+	border-radius: 1rem;
+	padding: 1rem 0;
+	margin: 1rem 0 0.5rem 0;
+}
+
+.confirm h1 {
+	margin: 0;
+	text-align: center;
+}
+
+@media (max-width: 1024px) {
+	.confirm {
+		grid-column: 1 / 2;
+	}
+}

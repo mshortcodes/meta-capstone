@@ -1,0 +1,30 @@
+.banner {
+	grid-row: 2 / 3;
+	grid-column: 1 / -1;
+	padding: 1rem;
+	background-color: #495e57;
+	text-align: center;
+}
+
+.banner img {
+	border-radius: 1rem;
+	max-width: 25%;
+	height: auto;
+}
+
+@media (max-width: 1536px) {
+	.banner {
+		grid-row: 3 / 4;
+	}
+}
+
+@media (max-width: 1024px) {
+	.banner {
+		grid-row: 3 / 4;
+		grid-column: 1 / 2;
+	}
+
+	#restaurant {
+		max-width: 100%;
+	}
+}
