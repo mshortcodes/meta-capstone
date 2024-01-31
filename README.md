@@ -38,7 +38,8 @@ If you would like to view the lengthy instructions for this assignment they are 
 
 The design for this project began in Figma. First, I created wireframes of the two required pages (home and reservation pages).
 
-<img src="./readme-images/home-wireframe.png" alt='home wireframe' />
+<img src="./readme-images/home-wireframe.png" width='50%' alt='home wireframe' />&nbsp;
+<img src="./readme-images/reservation-wireframe.png" width='50%' alt='reservation wireframe' />
 
 ### Challenges
 
