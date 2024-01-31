@@ -73,9 +73,9 @@ Concepts learned/practiced:
 
 Features:
 
--   Media queries
--   Hamburger nav menu for smaller screens
--   React router for page navigation
+-   media queries
+-   hamburger nav menu for smaller screens
+-   react router for page navigation
 
 ### Reservation Page
 
