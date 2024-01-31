@@ -31,15 +31,14 @@ If you would like to view the lengthy instructions for this assignment they are 
 
 ### Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='100' alt='react logo' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='100' alt='react logo' />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='100' alt='figma logo' />
 
 ### Design
 
-I originally began working on these projects with vanilla JS and had completed four of them. However, it looked horrible.
-I can copy other designs but creating them myself is not my specialty. This is when I realized just diving in coding without a particular design or layout in mind is not the best idea.
+The design for this project began in Figma. First, I created wireframes of the two required pages (home and reservation pages).
 
-So, the design I implemented came from inspiration
-from a YouTuber I follow, ForrestKnight. He had created a mini-game website which I thought looked great with a minimal design. My projects are different, but the memory card game was also an idea from him.
+<img src="./readme-images/home-wireframe.png" alt='home wireframe' />
 
 ### Challenges
 
