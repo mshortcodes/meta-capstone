@@ -38,8 +38,6 @@ The design for this project began in Figma. First, I created wireframes of the t
 <img src="./readme-images/home-wireframe.png" width='40%' alt='home wireframe' />&nbsp;
 <img src="./readme-images/reservation-wireframe.png" width='40%' alt='reservation wireframe' />
 
-<br />
-
 I was given a brand style guide to follow which included typography, color palette, etc. All images were also provided. Using the wireframes and the style guide, I made a mockup of the home page in Figma. While using Figma was not my favorite part of this project, having a design to follow helped the coding process a lot.
 
 <img src="./readme-images/mockup.jpg" alt='home mockup' />
@@ -69,8 +67,6 @@ Concepts learned/practiced:
 
 <img src="./readme-images/reviews.png" alt='reviews' />
 
-<br />
-
 Features:
 
 -   media queries
@@ -80,8 +76,6 @@ Features:
 ### Reservation Page
 
 <img src="./readme-images/reservation.png" alt='reservation page' />
-
-<br />
 
 Features:
 
