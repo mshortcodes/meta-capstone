@@ -35,17 +35,14 @@
 #time,
 #size,
 #occasion {
+	box-sizing: border-box;
 	width: 100%;
 	overflow: hidden;
+	text-align: center;
 }
 
 #outdoorLabel {
 	margin-left: 0.5rem;
-}
-
-#time option,
-#occasion option {
-	text-align: center;
 }
 
 sup {

@@ -92,4 +92,8 @@
 	.hero-about {
 		max-width: 100%;
 	}
+
+	.hero-button {
+		width: 100%;
+	}
 }
