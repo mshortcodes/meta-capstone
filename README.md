@@ -124,4 +124,4 @@ npm start
 
 Michael Short - mshortcodes@gmail.com
 
-Project link: https://miniprojects.vercel.app/
+Project link: https://meta-capstone.vercel.app/
