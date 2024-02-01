@@ -41,13 +41,7 @@
 	background-color: #edefee;
 	border-radius: 1rem;
 	overflow: hidden;
-}
-
-#salad,
-#bruschetta,
-#dessert,
-.price {
-	display: inline-block;
+	text-align: center;
 }
 
 .price {
@@ -67,6 +61,7 @@
 	background-color: #edefee;
 	border-radius: 1rem;
 	overflow: hidden;
+	text-align: center;
 }
 
 .specials h2,
@@ -80,6 +75,7 @@
 #specials-dessert {
 	width: 240px;
 	height: 160px;
+	border-radius: 1rem;
 }
 
 .specials-card3 {
@@ -88,6 +84,7 @@
 	background-color: #edefee;
 	border-radius: 1rem;
 	overflow: hidden;
+	text-align: center;
 }
 
 @media (max-width: 1536px) {
@@ -120,17 +117,20 @@
 		grid-row: 3 / 4;
 		grid-column: 1 / 2;
 		margin-bottom: 1rem;
+		text-align: left;
 	}
 
 	.specials-card2 {
 		grid-row: 4 / 5;
 		grid-column: 1 / 2;
 		margin-bottom: 1rem;
+		text-align: left;
 	}
 
 	.specials-card3 {
 		grid-row: 5 / 6;
 		grid-column: 1 / 2;
+		text-align: left;
 	}
 
 	#specials-salad,
