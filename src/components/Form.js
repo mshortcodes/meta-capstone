@@ -127,7 +127,9 @@ function Form(props) {
 				</div>
 
 				<div className='seating'>
-					<label htmlFor='indoor'>Indoor</label>
+					<label htmlFor='indoor' id='indoorLabel'>
+						Indoor
+					</label>
 					<input
 						type='radio'
 						id='indoor'

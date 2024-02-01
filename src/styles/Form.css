@@ -39,6 +39,7 @@
 	width: 100%;
 	overflow: hidden;
 	text-align: center;
+	padding: 0.25rem;
 }
 
 #outdoorLabel {
@@ -62,8 +63,7 @@ sup {
 
 #comments {
 	text-align: start;
-	padding: 0.5rem;
-	max-width: 95%;
+	width: 100%;
 }
 
 .reserve-table {
