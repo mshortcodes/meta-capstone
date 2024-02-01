@@ -34,32 +34,12 @@
 #date,
 #time,
 #size,
-#occasion,
-#comments {
+#occasion {
 	box-sizing: border-box;
 	width: 100%;
 	overflow: hidden;
 	text-align: center;
 	padding: 0.25rem;
-	font-family: 'Karla', sans-serif;
-	font-feature-settings: inherit;
-	font-variation-settings: inherit;
-	font-weight: inherit;
-	line-height: 1.5;
-	color: inherit;
-	margin: 0;
-	text-transform: none;
-}
-
-select {
-	-webkit-appearance: none;
-}
-
-input[type='date'] {
-	appearance: none;
-	padding: 0.5em 1em;
-	border: 1px solid #000000;
-	font-size: 1rem;
 }
 
 #outdoorLabel {
