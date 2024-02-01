@@ -137,7 +137,9 @@ function Form(props) {
 						checked={seating === 'indoor'}
 						onChange={() => setSeating('indoor')}
 					/>
-					<label htmlFor='outdoor'>Outdoor</label>
+					<label htmlFor='outdoor' id='outdoorLabel'>
+						Outdoor
+					</label>
 					<input
 						type='radio'
 						id='outdoor'
@@ -174,7 +176,7 @@ function Form(props) {
 					<textarea
 						id='comments'
 						aria-label='comments'
-						cols='25'
+						cols='30'
 						rows='5'
 						placeholder='Have a special request?'
 						value={comments}
