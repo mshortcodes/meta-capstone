@@ -51,6 +51,17 @@
 	text-transform: none;
 }
 
+select {
+	-webkit-appearance: none;
+}
+
+input[type='date'] {
+	appearance: none;
+	padding: 0.5em 1em;
+	border: 1px solid #000000;
+	font-size: 1rem;
+}
+
 #outdoorLabel {
 	margin-left: 0.5rem;
 }
