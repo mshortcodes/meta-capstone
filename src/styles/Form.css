@@ -40,6 +40,37 @@
 	overflow: hidden;
 	text-align: center;
 	padding: 0.25rem;
+	background-color: #ffffff;
+	font-family: 'Karla', sans-serif;
+	color: #495e57;
+	line-height: 1.5;
+	font-size: 1rem;
+}
+
+#name:focus,
+#email:focus,
+#date:focus,
+#time:focus,
+#size:focus,
+#occasion:focus,
+#comments:focus,
+#indoor:focus,
+#outdoor:focus {
+	outline: #ee9972;
+}
+
+#comments {
+	text-align: start;
+	width: 100%;
+	box-sizing: border-box;
+	overflow: hidden;
+	text-align: start;
+	padding: 0.25rem;
+	background-color: #ffffff;
+	font-family: 'Karla', sans-serif;
+	color: #495e57;
+	line-height: 1.5;
+	font-size: 1rem;
 }
 
 #outdoorLabel {
@@ -59,11 +90,6 @@ sup {
 
 .seating input {
 	width: auto;
-}
-
-#comments {
-	text-align: start;
-	width: 100%;
 }
 
 .reserve-table {
