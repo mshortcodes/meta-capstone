@@ -47,16 +47,8 @@
 	font-size: 1rem;
 }
 
-#name:focus,
-#email:focus,
-#date:focus,
-#time:focus,
-#size:focus,
-#occasion:focus,
-#comments:focus,
-#indoor:focus,
-#outdoor:focus {
-	outline: #ee9972;
+#date {
+	min-width: 100%;
 }
 
 #comments {
