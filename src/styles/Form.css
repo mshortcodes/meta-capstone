@@ -65,6 +65,13 @@
 	font-size: 1rem;
 }
 
+#time,
+#occasion {
+	text-align: center;
+	-webkit-text-align: center;
+	-moz-text-align: center;
+}
+
 #outdoorLabel {
 	margin-left: 0.5rem;
 }
