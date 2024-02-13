@@ -24,7 +24,7 @@ This was the final project in the Meta Front-End Developer Certificate on Course
 
 If you would like to view the lengthy instructions for this assignment they are [here](./instructions.md).
 
-<img src='./readme-images/home.png' alt='home page' />
+<img src='./public/readme-images/home.png' alt='home page' />
 
 ### Tools
 
@@ -35,12 +35,12 @@ If you would like to view the lengthy instructions for this assignment they are 
 
 The design for this project began in Figma. First, I created wireframes of the two required pages (home and reservation pages).
 
-<img src="./readme-images/home-wireframe.png" width='40%' alt='home wireframe' />&nbsp;
-<img src="./readme-images/reservation-wireframe.png" width='40%' alt='reservation wireframe' />
+<img src="./public/readme-images/home-wireframe.png" width='40%' alt='home wireframe' />&nbsp;
+<img src="./public/readme-images/reservation-wireframe.png" width='40%' alt='reservation wireframe' />
 
 I was given a brand style guide to follow which included typography, color palette, etc. All images were also provided. Using the wireframes and the style guide, I made a mockup of the home page in Figma. While using Figma was not my favorite part of this project, having a design to follow helped the coding process a lot.
 
-<img src="./readme-images/mockup.jpg" alt='home mockup' />
+<img src="./public/readme-images/mockup.jpg" alt='home mockup' />
 
 ### Challenges
 
@@ -65,7 +65,7 @@ Concepts learned/practiced:
 
 ### Home Page
 
-<img src="./readme-images/reviews.png" alt='reviews' />
+<img src="./public/readme-images/reviews.png" alt='reviews' />
 
 Features:
 
@@ -75,7 +75,7 @@ Features:
 
 ### Reservation Page
 
-<img src="./readme-images/reservation.png" alt='reservation page' />
+<img src="./public/readme-images/reservation.png" alt='reservation page' />
 
 Features:
 
