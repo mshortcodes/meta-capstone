@@ -44,7 +44,7 @@ I was given a brand style guide to follow which included typography, color palet
 
 ### Challenges
 
-Since I had a style guide to follow and my mockup, once I began coding I felt it was fairly straightforward for the most part. There were a couple areas of the project that I struggled on. For populating the booking times we were supposed to connect the bookings page to an API. However, I couldn't get this to work and later found out that the link was broken on the class forums. I also struggled with the useReducer hook as it seemed like a more confusing way of using useState and the course only briefly covered it. We were also supposed to write unit tests which I wasn't sure why mine kept failing. Unit tests are something I added to my list of things to study more of in the future.
+Since I had a style guide to follow and my mockup, once I began coding I felt it was fairly straightforward for the most part. There were a couple areas of the project that I struggled on. For populating the booking times we were supposed to connect the bookings page to an API. However, I couldn't get this to work and later found out that the URL was not working on the class forums. We were also supposed to write unit tests which I wasn't sure why mine kept failing. Unit tests are something I would like to study more of in the future.
 
 ### What I Learned
 
