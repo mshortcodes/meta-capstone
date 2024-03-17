@@ -117,7 +117,7 @@ npm install
 4. Run the development server:
 
 ```
-npm start
+npm run start
 ```
 
 # Contact
